@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(35, 35, 35);
+    color: white;
+}
+
+ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+li {
+    list-style: none;
+    width: 30%;
+    margin-bottom: 3rem;
+}
+
+li img {
+    width: 100%;
+
+}
